@@ -1,8 +1,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeesuho&layout=compact)
 
+## I'm Learning
+
+<img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
+
+#### 존경하는 분: 여준우 선배님
 
 <!--
 ## I'm Learning
+<img src="https://img.shields.io/badge/swift-F05138.svg?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/swift-0B0F14.svg?style=for-the-badge&logo=swift&logoColor=F05138" />
+
+<img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutter&logoColor=02569B" />
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+<img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=F05138" />
 <img src="https://img.shields.io/badge/swift-20232a.svg?style=for-the-badge&logo=swift&logoColor=F05138" /> <img src="https://img.shields.io/badge/html-20232a.svg?style=for-the-badge&logo=HTML5&logoColor=E34F26" />
 <img src="https://img.shields.io/badge/css-20232a.svg?style=for-the-badge&logo=css&logoColor=1572B6" />
 <img src="https://img.shields.io/badge/javascript-20232a.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -12,6 +23,8 @@
 <img src="https://img.shields.io/badge/vapor-20232a.svg?style=for-the-badge&logo=vapor&logoColor=3178C6" />
 <img src="https://img.shields.io/badge/express-20232a.svg?style=for-the-badge&logo=express&logoColor=#000000" />
 -->
+
+
 
 
 
