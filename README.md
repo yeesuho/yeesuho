@@ -4,7 +4,6 @@
 
 <img src="https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white" />
 
-#### 존경하는 분: 여준우 선배님
 
 <!--
 ## I'm Learning
